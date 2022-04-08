@@ -1,14 +1,15 @@
-- 👋 Hi, I’m @Junmarkchi97
+- 👋 Hi, I'm Junmark Chi !
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on on any web project
-- 📫 How to reach me: email me at chijunmark97@gmail.com
+- 📫 How to reach me: Email: chijunmark97@gmail.com
 
 
 
 <a href="https://www.linkedin.com/in/junmark-chi-a8196b233"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>
 <a href="https://twitter.com/junmark_chi"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="25" /></a>
 
+![Junmark's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junmarkchi97&theme=radical&show_icons=true)
 
 <!---
 Junmarkchi97/Junmarkchi97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
