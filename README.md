@@ -1,7 +1,6 @@
 - 👋 Hi, I'm Junmark Chi !
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on on any web project
 - 📫 How to reach me: Email: chijunmark97@gmail.com
 
 
