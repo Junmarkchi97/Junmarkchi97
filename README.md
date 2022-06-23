@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Junmark Chi !
-- 👀 I’m interested in Programming
+- 👀 I love Programming
 - 🌱 I’m currently learning React
 - 📫 How to reach me: Email: chijunmark97@gmail.com
 
