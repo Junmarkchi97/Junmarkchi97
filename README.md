@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Junmark Chi !
 - 👀 I love Programming
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and TypeScript
 - 📫 How to reach me: Email: chijunmark97@gmail.com
 
 
