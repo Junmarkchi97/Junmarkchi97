@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/junmark-chi-a8196b233"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>
 <a href="https://twitter.com/junmark_chi"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="25" /></a></br></br>
 
-![](https://hit.yhype.me/github/profile?user_id=101122513)
+![](https://komarev.com/ghpvc/?username=Junmarkchi97)
 
 **Languages and Tools:**  </br>
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
