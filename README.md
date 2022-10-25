@@ -14,37 +14,40 @@ My name is <strong>Junmark Chi</strong> and I'm an aspiring 💻 Software Engine
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Junmarkchi97" alt="visitors"> </p>
 
 <p align="center"><img align="center" alt="GIF" src="https://github.com/Junmarkchi97/Junmarkchi97/blob/main/code.gif?raw=true" width="500" height="320" color="red" /></p>
-</p>
 
-<br>
-<h3 align="center">🛠️ Languages and Tools:</h3>
-<p align="center">
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-<code><img height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
-<code><img height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="34" src="https://avatars.githubusercontent.com/u/317889?s=280&v=4"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
-<code><img height="34" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-
-<br>
-<br>
-<h3 align="center">🏫 Education:</h3>
+<h3 align="center">🏫 Education</h3>
 <p align="center">
 <strong>💻 Full Stack Web Development</strong> - Avion School 2022<br>
 <strong>👷🏻 BS Electrical Engineering</strong>  - Cebu Institute of Technology - University 2014-2019
 </p>
 
 <br>
-<h3 align="center">📈 Github Stats:</h3>
+<h3 align="center">⚙ Technical Skills</h3>
+
+  | ✒ Languages | 🖼 Frameworks  & Library |
+  | :---: | :---: |
+  |  ![Javascript logo with text](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Typescript logo with text](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Ruby logo with text](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![Markdown logo with text](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5 logo with text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 logo with text](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JSON logo with text](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) | ![Git logo with text](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![React logo with text](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![React router logo with text](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Ruby on rails logo with text](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Material UI logo with text](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white) ![Styled-components logo with text](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![SASS logo with text](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Bootstrap logo with text](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind css logo with text](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Node JS logo with text](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)   ![Postman logo with text](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![JWT logo with text](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white) ![XAMPP logo with text](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white) |
+
+---
+
+<div align="center">
+
+| 📦 Package Manager | 📚 Database | ☁ Cloud |
+  | :---: | :---: | :---: |
+  | ![NPM logo with text](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)  ![Rubygems logo with text](https://img.shields.io/badge/RubyGems-E9573F?style=for-the-badge&logo=rubygems&logoColor=white) ![Yarn logo with text](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white) | ![Postgresql logo with text](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Heroku logo with text](https://img.shields.io/badge/Heroku-6762a6?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00AD9F?style=for-the-badge&logo=Netlify&logoColor=white) ![Github](https://img.shields.io/badge/Github-171515?style=for-the-badge&logo=Github&logoColor=white)|
+  
+ </div>
+
+---
+
+| 🛠 Tools | 🎨 Design Tools |
+  | :---: | :---: |
+  | ![Command prompt with windows terminal logo and text](https://img.shields.io/badge/Command_Prompt-black?style=for-the-badge&logo=windowsterminal&logoColor=white)  ![Visual studio code logo with text](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Ubuntu and WSL logo with text](https://img.shields.io/badge/Ubuntu_%28WSL%29-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Powershell logo with text](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white) ![Windows terminal logo with text](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white) | ![Figma ](https://img.shields.io/badge/Figma-31A8FF?style=for-the-badge&logo=Figma&logoColor=white) |
+
+---
+
+<br>
+<h3 align="center">📈 Github Stats</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=junmarkchi97&show_icons=true&theme=gotham" alt="junmarkchi97" height="200" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junmarkchi97&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" height="200"/>
@@ -52,4 +55,3 @@ My name is <strong>Junmark Chi</strong> and I'm an aspiring 💻 Software Engine
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=junmarkchi97&repo=bukid-markets&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="135"/>
 </a>
 </p>
-
