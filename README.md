@@ -10,11 +10,7 @@ My name is <strong>Junmark Chi</strong> and I'm an aspiring 💻 Software Engine
 <a href="https://github.com/junmarkchi97" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-junmarkchi97-110705?style=flat&logo=github&logoColor=white"/></a>
 <a href="mailto:chijunmark97@gmail.com"><img src="https://img.shields.io/badge/-chijunmark97@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chijunmark97@gmail.com" /></a>
 
-
-
-
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junmarkchi97&theme=github_dark" alt="TopCodeBeast" align = "center"/></p>
-
 
 <h3 align="center">🏫 Education</h3>
 <p align="center">
@@ -22,7 +18,6 @@ My name is <strong>Junmark Chi</strong> and I'm an aspiring 💻 Software Engine
 <strong>👷🏻 BS Electrical Engineering</strong>  - Cebu Institute of Technology - University 2014-2019
 </p>
 
-<br>
 <h3 align="center">⚙ Technical Skills</h3>
 
   | ✒ Languages | 🖼 Frameworks  & Library |
@@ -47,7 +42,6 @@ My name is <strong>Junmark Chi</strong> and I'm an aspiring 💻 Software Engine
 
 ---
 
-<br>
 <h3 align="center">📈 Github Stats</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=junmarkchi97&show_icons=true&theme=gotham" alt="junmarkchi97" height="200" />
