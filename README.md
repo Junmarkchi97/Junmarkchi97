@@ -11,9 +11,10 @@ My name is <strong>Junmark Chi</strong> and I'm an aspiring 💻 Software Engine
 <a href="mailto:chijunmark97@gmail.com"><img src="https://img.shields.io/badge/-chijunmark97@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chijunmark97@gmail.com" /></a>
 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Junmarkchi97" alt="visitors"> </p>
 
-<p align="center"><img align="center" alt="GIF" src="https://github.com/Junmarkchi97/Junmarkchi97/blob/main/code.gif?raw=true" width="500" height="320" color="red" /></p>
+
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junmarkchi97&theme=github_dark" alt="TopCodeBeast" align = "center"/></p>
+
 
 <h3 align="center">🏫 Education</h3>
 <p align="center">
@@ -35,7 +36,7 @@ My name is <strong>Junmark Chi</strong> and I'm an aspiring 💻 Software Engine
 | 📦 Package Manager | 📚 Database | ☁ Cloud |
   | :---: | :---: | :---: |
   | ![NPM logo with text](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)  ![Rubygems logo with text](https://img.shields.io/badge/RubyGems-E9573F?style=for-the-badge&logo=rubygems&logoColor=white) ![Yarn logo with text](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white) | ![Postgresql logo with text](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Heroku logo with text](https://img.shields.io/badge/Heroku-6762a6?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00AD9F?style=for-the-badge&logo=Netlify&logoColor=white) ![Github](https://img.shields.io/badge/Github-171515?style=for-the-badge&logo=Github&logoColor=white)|
-  
+
  </div>
 
 ---
@@ -55,3 +56,5 @@ My name is <strong>Junmark Chi</strong> and I'm an aspiring 💻 Software Engine
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=junmarkchi97&repo=bukid-markets&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="135"/>
 </a>
 </p>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Junmarkchi97" alt="visitors"> </p>
