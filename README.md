@@ -45,7 +45,7 @@ My name is <strong>Junmark Chi</strong> and I'm an aspiring 💻 Software Engine
 <h3 align="center">📈 Github Stats</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=junmarkchi97&show_icons=true&theme=gotham" alt="junmarkchi97" height="200" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junmarkchi97&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junmarkchi97&hide=java,html,css,haml,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" height="200"/>
 <a href="https://github.com/Junmarkchi97/bukid-markets">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=junmarkchi97&repo=bukid-markets&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="135"/>
 </a>
