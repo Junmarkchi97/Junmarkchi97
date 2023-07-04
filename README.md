@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there! <img src="https://raw.githubusercontent.com/Junmarkchi97/Junmarkchi97/main/wave.gif" width="40px" height="40px" /></h1>
 
 <p align="center">
-My name is <strong>Junmark Chi</strong> and currently working as a <strong>Software Developer</strong> for WOOP Scholarship.
+My name is <strong>Junmark Chi</strong> and currently working as a <strong>Junior Full-stack Developer</strong> at Octify Technologies.
 </p>
 
 <p align="center">
