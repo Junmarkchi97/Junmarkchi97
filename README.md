@@ -12,12 +12,6 @@ My name is <strong>Junmark Chi</strong>
 
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junmarkchi97&theme=github_dark" alt="TopCodeBeast" align = "center"/></p>
 
-<h3 align="center">🏫 Education</h3>
-<p align="center">
-<strong>💻 Full Stack Web Development</strong> - Avion School 2022<br>
-<strong>👷🏻 BS Electrical Engineering</strong>  - Cebu Institute of Technology - University 2014-2019
-</p>
-
 <h3 align="center">⚙ Technical Skills</h3>
 
   | ✒ Languages | 🖼 Frameworks  & Library |
