@@ -10,8 +10,6 @@ My name is <strong>Junmark Chi</strong>
 <a href="https://github.com/junmarkchi97" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-junmarkchi97-110705?style=flat&logo=github&logoColor=white"/></a>
 <a href="mailto:chijunmark97@gmail.com"><img src="https://img.shields.io/badge/-chijunmark97@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chijunmark97@gmail.com" /></a>
 
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junmarkchi97&theme=github_dark" alt="TopCodeBeast" align = "center"/></p>
-
 <h3 align="center">⚙ Technical Skills</h3>
 
   | ✒ Languages | 🖼 Frameworks  & Library |
