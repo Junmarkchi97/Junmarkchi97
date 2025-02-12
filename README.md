@@ -6,7 +6,6 @@ My name is <strong>Junmark Chi</strong>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/junmark-chi-a8196b233"><img src="https://img.shields.io/badge/-junmarkchi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junmarkchi/" /></a>
-<a href="https://twitter.com/junmark_chi"><img src="https://img.shields.io/badge/-@junmark_chi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/junmark_chi" /></a>
 <a href="https://github.com/junmarkchi97" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-junmarkchi97-110705?style=flat&logo=github&logoColor=white"/></a>
 <a href="mailto:chijunmark97@gmail.com"><img src="https://img.shields.io/badge/-chijunmark97@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chijunmark97@gmail.com" /></a>
 
