@@ -25,6 +25,12 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### 🤖 AI & Machine Learning
+![ChatGPT API](https://img.shields.io/badge/ChatGPT_API-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![Replicate](https://img.shields.io/badge/Replicate-1E1E1E?style=for-the-badge&logo=replicate&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+
 ### ⚡ Frameworks & Libraries
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
