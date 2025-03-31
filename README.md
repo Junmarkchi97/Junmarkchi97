@@ -44,8 +44,8 @@
 ![Shopify API](https://img.shields.io/badge/Shopify_API-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 
 ### 🛠 Tools
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Ubuntu (WSL)](https://img.shields.io/badge/Ubuntu_%28WSL%29-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)
 
