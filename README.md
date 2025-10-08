@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/Junmarkchi97/Junmarkchi97/main/wave.gif" width="40px" height="40px" /></h1>
 
 <p align="center">
-  <strong>I'm Junmark Chi</strong>, a passionate full-stack developer specializing in modern web technologies.
+  <strong>I'm Junmark Chi</strong>, Full-stack developer specializing in modern web technologies.
 </p>
 
 <p align="center">
